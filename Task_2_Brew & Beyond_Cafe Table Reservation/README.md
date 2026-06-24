@@ -5,10 +5,9 @@
 
 ## Project Overview
 
-Brew & Beyond is a modern mobile application UI designed for cafe table reservations.
+Brew & Beyond is a modern mobile application UI designed for cafe table reservations. The app helps users easily browse tables, select time slots, and confirm bookings with a smooth and user-friendly experience.
 
 The app allows users to:
-
 - Login securely
 - Select tables
 - Choose date & time slots
