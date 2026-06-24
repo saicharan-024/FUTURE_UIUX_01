@@ -1,4 +1,4 @@
-# Task 2 - Mobile App UI for Appointment Booking
+# Task 2 - Mobile App UI for  Booking
 
 # Business Chosen
  Brew & Beyond – Cafe Table Reservation App
