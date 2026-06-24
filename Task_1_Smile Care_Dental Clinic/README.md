@@ -6,6 +6,26 @@ Smile Care - Dental Clinic Website
 ## Objective
 Designed a modern and conversion-focused website UI for a dental clinic to improve appointment bookings and user trust.
 
+## Business Type:
+Dental Clinic Website
+
+## Target Audience:
+Patients looking for dental services online
+
+## Goal:
+Increase appointment bookings and trust
+
+## UX Decisions:
+- Clear CTA buttons
+- Simple navigation
+- Trust-building testimonials
+- Mobile responsive layout
+
+## Conversion Improvements:
+- Easy booking flow
+- Strong visual hierarchy
+- Clean spacing
+
 ## Pages Designed
 - Homepage
 - Service Detail Page
