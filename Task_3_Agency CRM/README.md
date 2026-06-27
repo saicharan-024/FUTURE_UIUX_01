@@ -29,4 +29,5 @@ https://www.figma.com/proto/ueL0wCl3vbkqRnhUodk6kg/Task---3?node-id=4-2&p=f&t=Ku
 ## Screenshots
 
 ### Dashboard CRM
-![Dashboard CRM]
+![Dashboard CRM]<img width="1440" height="1024" alt="Dashboard CRM" src="https://github.com/user-attachments/assets/1ea4eab2-0a3b-4c82-95ea-a7ca10dabe44" />
+
